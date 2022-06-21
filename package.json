@@ -1,0 +1,19 @@
+{
+  "name": "crawler-node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./cli.js",
+  "bin": {
+    "crawler": "./cli.js"
+  },
+  "scripts": {},
+  "author": "Tony Santana López",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "mongoose": "^6.4.0",
+    "node-fetch": "^3.2.6",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {}
+}
